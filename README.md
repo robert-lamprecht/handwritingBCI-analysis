@@ -11,7 +11,7 @@ _PCA and Time Warped PCA_
 _tSNE_
 1. gaussSmooth_fast.m: helper function
 2. tsneWarpDist.m: helper function for tSNE
-3. tSNE.m: code written for tSNE
+3. tSNE.m: code written for tSNE and KNN
 
 _Linear Decoding for Character Reconstruction_
 1. HandwritingReconstruction.m: code written for reconstructing handwritten character
