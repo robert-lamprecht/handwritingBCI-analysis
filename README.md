@@ -14,8 +14,9 @@ _tSNE_
 3. tSNE.m: code written for tSNE
 
 _Linear Decoding for Character Reconstruction_
-1. handwritingReconstructionExample.m: code written for reconstructing handwritten character
+1. HandwritingReconstruction.m: code written for reconstructing handwritten character
 
 _Mutual Information_  
-1. Electrode_mutual_Information.ipynb : code written for the MI analysis of average firing rate across electrodes  
-2. PCAmutual_information.ipynb: code written for the MI analysis of PCA components and bias correction method  
+1. TrialAveragingforMI.m: code written for calculating the trial average of neural activity for MI analysis
+2. Electrode_mutual_Information.ipynb: code written for the MI analysis of average firing rate across electrodes  
+3. PCAmutual_information.ipynb: code written for the MI analysis of PCA components and bias correction method  
